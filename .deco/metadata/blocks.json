@@ -172,5 +172,9 @@
   "/.deco/blocks/casaevideo.json": {
     "blockType": "apps",
     "__resolveType": "decohub/apps/casaevideo.ts"
+  },
+  "/.deco/blocks/decohub.json": {
+    "blockType": "apps",
+    "__resolveType": "decohub/apps/decohub.ts"
   }
 }

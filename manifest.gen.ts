@@ -2,12 +2,13 @@
 // This file SHOULD be checked into source version control.
 // This file is automatically updated during development when running `dev.ts`.
 
-import * as $$$$$$$$$$$0 from "./apps/casaevideo.ts";
-import * as $$$$$$$$$$$1 from "./apps/deco/analytics.ts";
-import * as $$$$$$$$$$$2 from "./apps/deco/htmx.ts";
-import * as $$$$$$$$$$$3 from "./apps/deco/shopify.ts";
-import * as $$$$$$$$$$$4 from "./apps/site.ts";
-import * as $$$$$$$$$$$5 from "./apps/vtex.ts";
+import * as $$$$$$$$$$$0 from "./apps/deco/analytics.ts";
+import * as $$$$$$$$$$$1 from "./apps/deco/casaevideo.ts";
+import * as $$$$$$$$$$$2 from "./apps/deco/decohub.ts";
+import * as $$$$$$$$$$$3 from "./apps/deco/htmx.ts";
+import * as $$$$$$$$$$$4 from "./apps/deco/shopify.ts";
+import * as $$$$$$$$$$$5 from "./apps/site.ts";
+import * as $$$$$$$$$$$6 from "./apps/vtex.ts";
 import * as $$$$$$0 from "./sections/NovaSecao.tsx";
 import * as $$$$$$1 from "./sections/Theme/Theme.tsx";
 
@@ -17,12 +18,13 @@ const manifest = {
     "site/sections/Theme/Theme.tsx": $$$$$$1,
   },
   "apps": {
-    "site/apps/casaevideo.ts": $$$$$$$$$$$0,
-    "site/apps/deco/analytics.ts": $$$$$$$$$$$1,
-    "site/apps/deco/htmx.ts": $$$$$$$$$$$2,
-    "site/apps/deco/shopify.ts": $$$$$$$$$$$3,
-    "site/apps/site.ts": $$$$$$$$$$$4,
-    "site/apps/vtex.ts": $$$$$$$$$$$5,
+    "site/apps/deco/analytics.ts": $$$$$$$$$$$0,
+    "site/apps/deco/casaevideo.ts": $$$$$$$$$$$1,
+    "site/apps/deco/decohub.ts": $$$$$$$$$$$2,
+    "site/apps/deco/htmx.ts": $$$$$$$$$$$3,
+    "site/apps/deco/shopify.ts": $$$$$$$$$$$4,
+    "site/apps/site.ts": $$$$$$$$$$$5,
+    "site/apps/vtex.ts": $$$$$$$$$$$6,
   },
   "name": "site",
   "baseUrl": import.meta.url,
